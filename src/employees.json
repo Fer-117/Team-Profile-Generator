@@ -1,0 +1,86 @@
+[
+  {
+    "name": "f",
+    "id": "f",
+    "role": "Manager",
+    "email": "f",
+    "extra": "f"
+  },
+  {
+    "name": "e",
+    "id": "e",
+    "role": "Engineer",
+    "email": "e",
+    "extra": "e"
+  },
+  {
+    "name": "i",
+    "id": "i",
+    "role": "Intern",
+    "email": "i",
+    "extra": "i"
+  },
+  {
+    "name": "Fernando Manager",
+    "id": "789",
+    "role": "Manager",
+    "email": "ManagerEmail@gmail.com",
+    "extra": "01"
+  },
+  {
+    "name": "Fernando Engineer",
+    "id": "456",
+    "role": "Engineer",
+    "email": "EngineerEmail@gmail.com",
+    "extra": "Fer-117"
+  },
+  {
+    "name": "Fernando Intern",
+    "id": "123",
+    "role": "Intern",
+    "email": "internEmail@gmail.com",
+    "extra": "university of coding"
+  },
+  {
+    "name": "manager 3",
+    "id": "45634",
+    "role": "Manager",
+    "email": "343234",
+    "extra": "43"
+  },
+  {
+    "name": "test 4",
+    "id": "4",
+    "role": "Manager",
+    "email": "4",
+    "extra": "4"
+  },
+  {
+    "name": "test 5",
+    "id": "5",
+    "role": "Manager",
+    "email": "5",
+    "extra": "5"
+  },
+  {
+    "name": "test 6",
+    "id": "6",
+    "role": "Manager",
+    "email": "6",
+    "extra": "6"
+  },
+  {
+    "name": "test 7",
+    "id": "7",
+    "role": "Manager",
+    "email": "7",
+    "extra": "7"
+  },
+  {
+    "name": "test 8",
+    "id": "8",
+    "role": "Engineer",
+    "email": "8",
+    "extra": "8"
+  }
+]
