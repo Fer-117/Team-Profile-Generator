@@ -148,16 +148,52 @@ function generateHTML(employees) {
       <meta charset="UTF-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" href="style.css">
       <title>My Company Employee List</title>
     </head>
     <body>
       <h1>My Company Employee List</h1>
-      <ul>`;
+      <div id="employeeContainer">
+      <div id="managers">
+        <h2>Managers</h2>
+        <ul>
+        
+        `;
   employees.forEach((employee) => {
-    html += `<li>${employee.role}: ${employee.name}</li>`;
+    if (employee.role === "Manager") {
+      html += `<li class="name">${employee.name} <ul> <li>${employee.id}</li><li>${employee.email}</li><li>${employee.extra}</li></ul>`;
+    }
   });
   html += `
     </ul>
+    </div>
+    <div id="engineers">
+        <h2>Engineers</h2>
+        <ul>
+        
+        `;
+  employees.forEach((employee) => {
+    if (employee.role === "Engineer") {
+      html += `<li class="name">${employee.name} <ul> <li>${employee.id}</li><li>${employee.email}</li><li>${employee.extra}</li></ul>`;
+    }
+  });
+  html += `
+    </ul>
+    </div>
+    <div id="interns">
+        <h2>Interns</h2>
+        <ul>
+        
+        `;
+  employees.forEach((employee) => {
+    if (employee.role === "Intern") {
+      html += `<li class="name">${employee.name} <ul> <li>${employee.id}</li><li>${employee.email}</li><li>${employee.extra}</li></ul>`;
+    }
+  });
+  html += `
+    </ul>
+    </div>
+    </div>
   </body>
   </html>
   `;

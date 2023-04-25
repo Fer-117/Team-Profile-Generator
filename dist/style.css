@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+#employeeContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+h2 {
+  text-align: center;
+  background-color: lightblue;
+}
+
+.name {
+  list-style: none;
+  background-color: lightgray;
+  margin: 10px;
+  font-weight: bold;
+}
+li {
+  font-weight: normal;
+}
