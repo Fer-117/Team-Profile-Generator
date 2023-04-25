@@ -21,24 +21,10 @@
     "extra": "university of coding"
   },
   {
-    "name": "Robert",
-    "id": "4569",
+    "name": "Manager 2",
+    "id": "9638",
     "role": "Manager",
-    "email": "robert@gmail.com",
+    "email": "manager2@gmail.com",
     "extra": "03"
-  },
-  {
-    "name": "Gilbert",
-    "id": "9874",
-    "role": "Engineer",
-    "email": "gilbert@gmail.com",
-    "extra": "Gil911"
-  },
-  {
-    "name": "Cat",
-    "id": "meow",
-    "role": "Intern",
-    "email": "meow@gmail.com",
-    "extra": "school of meow"
   }
 ]
