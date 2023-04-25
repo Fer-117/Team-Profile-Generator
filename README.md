@@ -40,6 +40,9 @@ There are no guidelines for contributing at the moment but feel free to reach ou
 
 In order to run the tests for this project, you will have to position yourself in the test folder in the terminal. Then you'll need to run npm test "filename", just substitute the name of the file you want to test.
 
+## Video walkthrough of the project
+https://drive.google.com/file/d/1l3XFGI0vAu6FgiLdqZoVa1Nh4zeLwyZc/view
+
 ## Questions
 
 https://github.com/Fer-117
