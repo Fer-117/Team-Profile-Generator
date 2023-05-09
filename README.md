@@ -30,8 +30,6 @@ Once you have all the files you need, you can start running the app by using npm
 
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-It is a command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
-
 ## Contributing
 
 There are no guidelines for contributing at the moment but feel free to reach out to me with any questions or suggestions.
